@@ -1,17 +1,9 @@
 <div align="center">
 
-# 💗✨ Laboratorio de Redes Neuronales — Nayeli García 💗
+# 💗✨ Laboratorio de Redes Neuronales — Nayeli García ✨💗
 
-<img src="https://i.imgur.com/G6u4z6m.png" width="100%" alt="banner rosa aesthetic">
-
-<div align="center">
-  <img src="https://i.imgur.com/8q4n36A.png" width="200px" alt="Mickey Mouse">
-</div>
-
-### Un repositorio con estilo rosa, creatividad y mucho aprendizaje  
+### Un repositorio con creatividad y mucho aprendizaje 💗 
 ### ✨ IA • Redes Neuronales • Perceptrones • Google Colab ✨
-
-<img src="https://i.imgur.com/hY7Z9rW.gif" width="220px">
 
 ---
 
@@ -21,9 +13,9 @@
 ![Python](https://img.shields.io/badge/Python-3.x-ff9acd?style=for-the-badge)
 ![Colab](https://img.shields.io/badge/Google-Colab-f78fdc?style=for-the-badge)
 
-</div>
-
 ---
+
+</div>
 
 # 💗 Contenido del Repositorio
 
@@ -33,13 +25,12 @@ Cada carpeta representa un tema importante dentro de la Inteligencia Artificial:
 
 ### 📁 Carpetas actuales
 - 💕 **McCulloch-Pitts** — Neuronas básicas  
-- 💕 **Perceptrón** — Perceptrón simple  
-- 💕 **Perceptrón (duplicado)** — Más prácticas  
+- 💕 **Perceptrón** — Perceptrón simple y prácticas   
 - 💕 **Redes Neuronales Convoluciones (CNN)** — Imágenes y filtros  
-- 💕 **Redes Neuronales Recurrentes (RNN/LSTM/GRU)** — Secuencias  
-- 💕 **Redes de Multicapa (MLP)** — Redes densas
+- 💕 **Redes Neuronales Recurrentes** — Secuencias  
+- 💕 **Redes de Multicapa (MLP)** — Clasificación y regresión 
 
-> 🌷 *Cada archivo es parte de mi proceso aprendiendo Inteligencia Artificial.*
+> 🌷 *Cada archivo es parte de mi proceso aprendiendo sobre Inteligencia Artificial.*
 
 ---
 
@@ -58,6 +49,11 @@ Cada carpeta representa un tema importante dentro de la Inteligencia Artificial:
 - 🤖 Modelos clásicos y modernos de IA
 
 ---
+
+
+
+
+
 
 
 
